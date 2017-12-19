@@ -7,8 +7,8 @@ Arkanoid clone created to test myself in C# and unity.
 2. 'Push to start' screen
 
 ## Built with
-*Unity
-*Visual Studio 2017
+* Unity
+* Visual Studio 2017
 
 ## Aknowledgements
 Original tutorial followed from noobtuts.com to build base game and sprites
